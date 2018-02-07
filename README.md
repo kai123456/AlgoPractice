@@ -3,8 +3,8 @@
 Here are some algorithm problem that I'm practing on.
 
 ## ProjectEuler
-###1. Multiples of 3 and 5
-###3. Largest prime factor
+### 1. Multiples of 3 and 5
+### 3. Largest prime factor
 The prime factors of 13195 are 5, 7, 13 and 29.
 What is the largest prime factor of the number 600851475143 ?
 
